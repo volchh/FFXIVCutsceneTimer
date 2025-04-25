@@ -1,6 +1,6 @@
 {
   "Entries": {
-    "12345-English-abc123def456",
-    "23456-English-abc123def456"
+    "12345-English-abc123hash": 42.3,
+    "67890-English-def456hash": 51.8
   }
 }
